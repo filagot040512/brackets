@@ -2,7 +2,7 @@
     "jslint.options": {
         "vars": true,
         "plusplus": true,
-        "browser": false,
+        "browser": true,
         "devel": true,
         "nomen": true,
         "indent": 4,
